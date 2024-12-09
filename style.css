@@ -1,15 +1,8 @@
-h1 {
-    color: black;
-    font-family: 'Arial', sans-serif;
-    text-align: center;
-    text-shadow: 2px 2px 5px gray;
-    margin-top: 20px;
-}
+h1{
+color: black;
 
-body {
-    background-color: rgb(13, 203, 54);
-    margin: 0;
-    font-family: 'Verdana', sans-serif;
-    line-height: 1.6;
-    color: white;
+} 
+body{
+background-color: rgb(13, 203, 54);
+
 }
